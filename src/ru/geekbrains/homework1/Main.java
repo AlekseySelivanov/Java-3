@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Task1: "+Arrays.toString(arr));
         Object sw = arr[n1];
         arr[n1]=arr[n2];
-        arr[n2]=sw;hj12
+        arr[n2]=sw;hj123
         System.out.println("The result of the replacement: "+Arrays.toString(arr));
     }
 }
