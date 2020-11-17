@@ -2,6 +2,7 @@ package java2;
 import java.sql.*;
 
 public class Main {
+    //
     static Connection connection = null;
     final String DRIVER_NAME = "org.sqlite.JDBC";
     final String DB_NAME = "jdbc:sqlite:sqlite.db";
