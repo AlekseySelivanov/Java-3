@@ -24,7 +24,7 @@ public class Main {
             e.printStackTrace();
         }
 
-        // Task 2:
+        // Task 2://
 
         List<InputStream> al = new ArrayList<>();
         SequenceInputStream seq = null;
@@ -54,7 +54,7 @@ public class Main {
                 seq.close();
             } catch (IOException e) {
             }
-            ;
+
 
 
         }
