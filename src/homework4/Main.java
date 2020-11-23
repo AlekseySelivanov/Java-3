@@ -3,7 +3,7 @@ package homework4;
 public class Main {
 
     final Object monitor = new Object();
-    volatile char currentLetter = 'A';///
+    volatile char currentLetter = 'A';//
 
     public static void main(String[] args) {
 
