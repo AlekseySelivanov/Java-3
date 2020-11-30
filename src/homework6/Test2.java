@@ -1,4 +1,4 @@
-package homework6;//
+package homework6;///
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
