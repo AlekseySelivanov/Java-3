@@ -1,4 +1,4 @@
-package homework7;
+package homework7;//
 
 import java.lang.annotation.Target;
 import java.lang.annotation.ElementType;
