@@ -1,4 +1,4 @@
-package homework8;
+package homework8;//
 import java.util.stream.IntStream;
 
 public class Main {
